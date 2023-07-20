@@ -1,2 +1,2 @@
 # fastapi
-basic setting faastapi
+basic study faastapi
